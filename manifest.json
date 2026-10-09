@@ -1,0 +1,9 @@
+{
+  "name": "گزارش کار روزانه",
+  "short_name": "گزارش کار",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050814",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait"
+}
